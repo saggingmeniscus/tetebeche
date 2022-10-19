@@ -8,6 +8,10 @@ from two input pdfs. The two pdfs are merged, with the second reversed and rotat
 The user should ensure that the input PDFs have the same page dimensions and that both have
 an even number of pages.
 
+## Installation
+
+    pip install tetebeche
+
 ## Usage
 
     usage: tetebeche [-h] book1 book2 merged
