@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "tetebeche"
 version = "0.1.1"
-description = "Script to generate a tėte-bêche book from two pdfs"
+description = "Script to generate a tête-bêche book from two pdfs"
 authors = ["Jacob Smullyan <smulloni@smullyan.org>"]
 readme = "README.md"
 license = "Apache-2.0"
